@@ -45,3 +45,13 @@ Os resultados podem apoiar investigações e decisões voltadas à melhoria da o
 ## Dados
 
 Os dados utilizados são simulados e destinados a fins educacionais.
+
+## Créditos e contexto educacional
+
+Este projeto foi desenvolvido como atividade complementar durante minha formação em Análise de Dados pela **Generation Brasil**.
+
+O desafio **iFome Delivery** foi disponibilizado por meio da plataforma educacional **DataCorp Simulator**, desenvolvida pelo **Prof. Luiz Chiavini**, professor orientador.
+
+A resolução do desafio, o tratamento dos dados, os cálculos dos indicadores, as visualizações e as análises complementares foram realizados por mim como parte do aprendizado prático em Python, Pandas e análise de dados.
+
+Os dados utilizados são simulados e destinados a fins educacionais.
